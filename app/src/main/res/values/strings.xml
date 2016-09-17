@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Linerasinglescreenapp</string>
+
+    <string name="number_text">424-278-8938</string>
+    <string name="phone_text">Phone</string>
+    <string name="header_text">DanielAriasTango.Com</string>
+    <string name="thursday_text">Every thursday Night!</string>
+    <string name="hour_text"> 8:30pm to 9:30pm</string>
+    <string name="address_text">5867 W 3rd St, Los Angeles, CA 90036</string>
+    <string name="button">Join Us</string>
+    <string name="title_text">"Learn How To Dance Milonguero Tango Style!"</string>
+</resources>
