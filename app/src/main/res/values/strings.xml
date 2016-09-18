@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Linerasinglescreenapp</string>
+    <string name="app_name">screenapp</string>
 
     <string name="number_text">424-278-8938</string>
     <string name="phone_text">Phone</string>
